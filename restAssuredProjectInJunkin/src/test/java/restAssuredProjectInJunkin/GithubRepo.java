@@ -15,7 +15,7 @@ public class GithubRepo {
 	public static String baseUrl="https://api.github.com";
 	public static String owner;
 	public static String repo_name;
-	public static String token="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";
+	public static String token="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";
 	JsonPath jsonpath;
 	public static String shs;
 	public static int id;
@@ -25,7 +25,7 @@ public class GithubRepo {
 	@Test(priority=0)
 	public void CREATE_A_REPOSITORY_FOR_A_AUTHENTICATED_USER() {
 		String jsonBody = "{\r\n"
-				+ "	\"name\": \"Disco Ninjas123\",\r\n"
+				+ "	\"name\": \"Disco Ninjas1213\",\r\n"
 				+ "	\"description\": \"This is api project\" \r\n"
 				+ "}";
 		
