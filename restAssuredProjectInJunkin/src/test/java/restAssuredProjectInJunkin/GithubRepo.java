@@ -15,7 +15,7 @@ public class GithubRepo {
 	public static String baseUrl="https://api.github.com";
 	public static String owner;
 	public static String repo_name;
-	public static String token="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";
+	public static String token="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";
 	JsonPath jsonpath;
 	public static String shs;
 	public static int id;
